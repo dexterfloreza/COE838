@@ -47,9 +47,9 @@ The final system successfully demonstrated communication between the HPS and FPG
 
 ## Demo Video
 
-Demo of the final hardware implementation on the DE1-SoC board:
+This video demonstrates the completed DE1-SoC Lab 3 system running on hardware.
 
-🔗 [Lab 3 Video Demonstration](https://drive.google.com/file/d/18_HiTohm4m10vXItO44ZEy9HtVhn1zn1/view)
+[![Watch the Lab 3 Demo](images/demo_thumbnail.png)](https://drive.google.com/file/d/18_HiTohm4m10vXItO44ZEy9HtVhn1zn1/view)
 
 ## Challenges
 
