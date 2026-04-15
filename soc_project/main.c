@@ -7,13 +7,16 @@
 #include <sys/time.h>
 
 /*
-===============================================================================
+============================================================================================================================
 MD5 CONTROLLER APPLICATION — FULL WORKFLOW EXPLANATION
 CREATED BY: DEXTER RYAN FLOREZA
 STUDENT NUMBER: 500946679
 CONTACT: dexter.floreza@torontomu.ca
-MAY THIS EXPLANATION HELP ALL FUTURE ELECTRICAL AND COMPUTER ENGINEERING STUDENTS SO THAT THEY MAY NEVER SUFFER LIKE I DID  
-===============================================================================
+MAY THIS EXPLANATION HELP ALL FUTURE ELECTRICAL AND COMPUTER ENGINEERING STUDENTS SO THAT THEY MAY NEVER SUFFER LIKE I DID 
+THIS SOLUTION IS FAR FROM PERFECT, BUT IS SUFFICIENT FOR THE SCOPE OF THE PROJECT
+FUTURE ELECTRICAL AND COMPUTER ENGINEERING STUDENTS SHOULD LOOK TO IMPLEMENT A MORE ELEGANT CODE DESIGN USING WHATEVER TOOLS 
+NECESSARY 
+============================================================================================================================
 
 SYSTEM OVERVIEW
 ---------------
